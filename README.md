@@ -1,2 +1,10 @@
 # twitterBot
-Personally made twitterBot using pyhton Selenium
+TwitterBot using pyhton Selenium
+
+#Requires 
+Python 3.6 <=
+Selenium
+bs4 => BeautifulSoup
+
+Requests was a possible solution, doesn't work well with Twitter
+

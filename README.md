@@ -1,5 +1,5 @@
 # twitterBot
-TwitterBot using pyhton Selenium
+TwitterBot using python Selenium
 
 #Requires 
 Python 3.6 <=
